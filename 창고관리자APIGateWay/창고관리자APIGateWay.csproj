@@ -1,0 +1,28 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="13.0.1" />
+    <PackageReference Include="MediatR" Version="12.2.0" />
+    <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="8.0.3" />
+    <PackageReference Include="Microsoft.Extensions.Caching.StackExchangeRedis" Version="8.0.3" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+    <PackageReference Include="RabbitMQ.Client" Version="6.8.1" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.5.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\IdentityCommon\계정Common.csproj" />
+    <ProjectReference Include="..\WarehouseCommon\창고Common.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Handlr\" />
+  </ItemGroup>
+
+</Project>

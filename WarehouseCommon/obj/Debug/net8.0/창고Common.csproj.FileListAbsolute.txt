@@ -1,0 +1,16 @@
+C:\Users\user\Desktop\FullFillment\FullFillMentSoulution\WarehouseCommon\bin\Debug\net8.0\창고Common.deps.json
+C:\Users\user\Desktop\FullFillment\FullFillMentSoulution\WarehouseCommon\bin\Debug\net8.0\창고Common.dll
+C:\Users\user\Desktop\FullFillment\FullFillMentSoulution\WarehouseCommon\bin\Debug\net8.0\창고Common.pdb
+C:\Users\user\Desktop\FullFillment\FullFillMentSoulution\WarehouseCommon\bin\Debug\net8.0\Common.dll
+C:\Users\user\Desktop\FullFillment\FullFillMentSoulution\WarehouseCommon\bin\Debug\net8.0\Common.pdb
+C:\Users\user\Desktop\FullFillment\FullFillMentSoulution\WarehouseCommon\obj\Debug\net8.0\창고Common.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\FullFillment\FullFillMentSoulution\WarehouseCommon\obj\Debug\net8.0\창고Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\FullFillment\FullFillMentSoulution\WarehouseCommon\obj\Debug\net8.0\창고Common.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\FullFillment\FullFillMentSoulution\WarehouseCommon\obj\Debug\net8.0\창고Common.AssemblyInfo.cs
+C:\Users\user\Desktop\FullFillment\FullFillMentSoulution\WarehouseCommon\obj\Debug\net8.0\창고Common.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\FullFillment\FullFillMentSoulution\WarehouseCommon\obj\Debug\net8.0\창고Common.sourcelink.json
+C:\Users\user\Desktop\FullFillment\FullFillMentSoulution\WarehouseCommon\obj\Debug\net8.0\창고Common.csproj.CopyComplete
+C:\Users\user\Desktop\FullFillment\FullFillMentSoulution\WarehouseCommon\obj\Debug\net8.0\창고Common.dll
+C:\Users\user\Desktop\FullFillment\FullFillMentSoulution\WarehouseCommon\obj\Debug\net8.0\refint\창고Common.dll
+C:\Users\user\Desktop\FullFillment\FullFillMentSoulution\WarehouseCommon\obj\Debug\net8.0\창고Common.pdb
+C:\Users\user\Desktop\FullFillment\FullFillMentSoulution\WarehouseCommon\obj\Debug\net8.0\ref\창고Common.dll
