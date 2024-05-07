@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("창고Common")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ab0021141588b7d6bfa77709ec75dc6b91024dbb")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2819a529eef0cc5d8df7535b6641854a488b182b")]
 [assembly: System.Reflection.AssemblyProductAttribute("창고Common")]
 [assembly: System.Reflection.AssemblyTitleAttribute("창고Common")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

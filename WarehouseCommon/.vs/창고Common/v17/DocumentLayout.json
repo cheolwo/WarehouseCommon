@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\WarehouseCommon\\WarehouseCommon\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4E935CDC-E4B6-48F6-8ECA-5DF604E68B43}|\uCC3D\uACE0Common.csproj|c:\\users\\user\\desktop\\warehousecommon\\warehousecommon\\model\\\uCC3D\uACE0dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E935CDC-E4B6-48F6-8ECA-5DF604E68B43}|\uCC3D\uACE0Common.csproj|solutionrelative:model\\\uCC3D\uACE0dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E935CDC-E4B6-48F6-8ECA-5DF604E68B43}|\uCC3D\uACE0Common.csproj|c:\\users\\user\\desktop\\warehousecommon\\warehousecommon\\model\\\uCC3D\uACE0.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E935CDC-E4B6-48F6-8ECA-5DF604E68B43}|\uCC3D\uACE0Common.csproj|solutionrelative:model\\\uCC3D\uACE0.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 133,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "\uCC3D\uACE0DbContext.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\WarehouseCommon\\WarehouseCommon\\Model\\\uCC3D\uACE0DbContext.cs",
+              "RelativeDocumentMoniker": "Model\\\uCC3D\uACE0DbContext.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\WarehouseCommon\\WarehouseCommon\\Model\\\uCC3D\uACE0DbContext.cs",
+              "RelativeToolTip": "Model\\\uCC3D\uACE0DbContext.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABwAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T00:57:39.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "\uCC3D\uACE0.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\WarehouseCommon\\WarehouseCommon\\Model\\\uCC3D\uACE0.cs",
+              "RelativeDocumentMoniker": "Model\\\uCC3D\uACE0.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\WarehouseCommon\\WarehouseCommon\\Model\\\uCC3D\uACE0.cs",
+              "RelativeToolTip": "Model\\\uCC3D\uACE0.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T00:53:17.968Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
